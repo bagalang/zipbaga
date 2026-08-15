@@ -87,3 +87,7 @@ let p = zip_set_entry(z, "word/document.xml", new_xml, 1)
 
 - `officebaga` — Office formats on top of this package  
 - `std/crypto/crc32c` — **different** poly (Castagnoli); do not use for ZIP  
+
+## License
+
+[MIT](LICENSE) — Copyright (c) 2026 Dim Gigov.
